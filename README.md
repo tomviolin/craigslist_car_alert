@@ -1,2 +1,2 @@
-# craiglist_car_alert
+# craigslist_car_alert
 Simple craigslist scraper to alert when cars matching your requirements are posted.
